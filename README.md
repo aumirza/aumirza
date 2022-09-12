@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aumirza&label=Profile%20views&color=0e75b6&style=flat" alt="aumirza" /> </p>
 
-- 🔭 I’m currently working on **A blog with flask**
+- 🔭 I’m currently working on **so many projects 😂**
 
-- 🌱 I’m currently learning **Flask**
+- 🌱 I’m currently learning **NEXT.js**
 
 - 📫 How to reach me **mirzaahmad9028.am@gmail.com**
 
