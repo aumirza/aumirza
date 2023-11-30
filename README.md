@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **NEXT.js**
 
-- 📫 How to reach me **mirzaahmad9028.am@gmail.com**
+- 📫 How to reach me **mail@ahmadullah.in**
 
 - 🌐 My portfolio **https://ahmadullah.in/**
 
