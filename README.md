@@ -1,18 +1,21 @@
 <div align="center">
-  <img height="150" src="https://typed-svg.netlify.app/api/svg?text=+%F0%9F%8C%B9Ahmadullah+mirza&amp;font=Poppins&amp;duration=3000&amp;vCenter=true&amp;center=true&amp;fontSize=70&amp;height=200&amp;width=800&amp;background=rgba%28227%2C+227%2C+227%2C1%29&amp;color=rgba%280%2C+0%2C+0%2C1%29"  />
+  <img height="150" src="https://typed-svg.netlify.app/api/svg?text=+%F0%9F%8C%B9Ahmadullah+mirza&amp;font=Poppins&amp;duration=3000&amp;vCenter=true&amp;center=true&amp;fontSize=70&amp;height=300&amp;width=1200&amp;background=rgba%28227%2C+227%2C+227%2C1%29&amp;color=rgba%280%2C+0%2C+0%2C1%29"  />
 </div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=aumirza&label=Profile%20views&color=0e75b6&style=flat" alt="aumirza" />
+  <span>        </span>
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </div>
 
 ###
 
-<h1 align="center">hey there 👋</h1>
+<h1 align="center">Hey there 👋, I'm Ahmadullah Mirza.</h1>
 
 ###
 
-<p align="left">I'm Ahmadullah Mirza.<br><br>- 🔭 I’m working as frontend developer.<br>- 📚 I'm currently learning to code better and efficient with design patterns and algorithms.<br>- ⚡ In my free time I build many projects and clones with new technologies.</p>
+<p align="left">- 🔭 I’m working as frontend developer.<br>- 📚 I'm currently learning to code better and efficient with design patterns and algorithms.<br>- ⚡ In my free time I build many projects and clones with new technologies.</p>
 
 ###
 
@@ -110,14 +113,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
 </div>
 
-###
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
 
 ###
 
