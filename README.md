@@ -1,5 +1,6 @@
 <div align="center">
   <img height="150" src="https://typed-svg.netlify.app/api/svg?text=+%F0%9F%8C%B9Ahmadullah+mirza&amp;font=Poppins&amp;duration=3000&amp;vCenter=true&amp;center=true&amp;fontSize=70&amp;height=300&amp;width=1200&amp;background=rgba%28227%2C+227%2C+227%2C1%29&amp;color=rgba%280%2C+0%2C+0%2C1%29"  />
+  <p>created using <a href="https://typed-svg.netlify.app/">Typed SVG by @aumirza</a></p>
 </div>
 
 <div align="center">
