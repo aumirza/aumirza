@@ -1,15 +1,6 @@
 <div align="center">
-  <img height="150" src="https://typed-svg.netlify.app/api/svg?text=+%F0%9F%8C%B9Ahmadullah+mirza&amp;font=Poppins&amp;duration=3000&amp;vCenter=true&amp;center=true&amp;fontSize=45&amp;height=150&amp;width=500&amp;background=rgba%28227%2C+227%2C+227%2C1%29&amp;color=rgba%280%2C+0%2C+0%2C1%29"  />
+  <img height="150" src="https://typed-svg.netlify.app/api/svg?text=+%F0%9F%8C%B9Ahmadullah+mirza&amp;font=Poppins&amp;duration=3000&amp;vCenter=true&amp;center=true&amp;fontSize=70&amp;height=200&amp;width=800&amp;background=rgba%28227%2C+227%2C+227%2C1%29&amp;color=rgba%280%2C+0%2C+0%2C1%29"  />
 </div>
-
-###
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
-
-###
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=aumirza&label=Profile%20views&color=0e75b6&style=flat" alt="aumirza" />
@@ -18,10 +9,6 @@
 ###
 
 <h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
 
 ###
 
@@ -121,6 +108,15 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="40" alt="bash logo"  />
+</div>
+
+###
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
 </div>
 
 ###
